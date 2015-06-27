@@ -1,0 +1,7 @@
+name: for
+main: com.github.jptx1234.For.For
+version: 1.0
+commands:
+  for:
+    description: 运行for命令
+    usage: 语法错误，请使用/for h 命令查看用法
